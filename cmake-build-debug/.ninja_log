@@ -1,0 +1,5 @@
+# ninja log v6
+12	943	7497567974727396	CMakeFiles/Lab05Search.dir/main.cpp.obj	5fbed41131821dd1
+992	1071	7497569544811877	Lab05Search.exe	23ec6e9a02b08af2
+2	567	7497670109440981	build.ninja	9e47ab1a4cfdf882
+12	991	7497569535011361	CMakeFiles/Lab05Search.dir/analyzer.cpp.obj	714d879e3fde6ebe
